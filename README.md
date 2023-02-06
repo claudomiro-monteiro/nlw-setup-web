@@ -1,0 +1,3 @@
+# nlw-setup-web
+
+Projeto realizado no NLW-SETUP front end, utilizando ReactJs, Tailwindcss, Radix, etc...
